@@ -14,7 +14,7 @@ import FocusHistory from './src/features/FocusHistory';
 import Timer from './src/features/Timer';
 
 export default function App() {
-  //just soome comment to test git
+  //just some comment to test git
   const [currentSubject, setCurrentSubject] = useState();
   const [history, setHistory] = useState([]);
 
